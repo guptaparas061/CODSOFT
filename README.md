@@ -2,6 +2,8 @@
 
 ## To-Do List Application
 
+![To-Do List](https://github.com/guptaparas061/CODSOFT/blob/main/todolist.png)
+
 ### Overview
 This is a simple To-Do List application built in Python. It allows users to manage and organize their tasks efficiently through a graphical user interface (GUI) created using the Tkinter library.
 
