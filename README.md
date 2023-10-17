@@ -116,7 +116,7 @@ This Python application generates strong and random passwords based on user-defi
 - **Random Module:** Used to generate random characters for the password.
 - **String Module:** Utilized for accessing different sets of characters (e.g., letters, digits, punctuation) to construct passwords.
 
-## Working
+## How It Works
 **1.  User Input**
 - The application prompts the user to specify the desired length and complexity of the password.
 
