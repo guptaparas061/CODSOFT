@@ -73,7 +73,7 @@ delete_button.pack(pady=2)
 listbox = tk.Listbox(root, selectbackground="#00C000", activestyle="none", width=40, height=10)
 listbox.pack(padx=10, pady=5)
 
-# Populate listbox with existing tasks
+# Populate the listbox with existing tasks
 for task in tasks:
     listbox.insert(tk.END, task["name"])
     if task["completed"]:
