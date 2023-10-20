@@ -42,8 +42,8 @@ This application is a GUI-based Rock-Paper-Scissors game implemented using the T
 - The game continues until the user decides to exit the application.
 
 ## How to Run
-Ensure you have Python installed on your system.
-Run the **'[rockpaperscissorsgame.py](rockpaperscissorsgame.py)'** script using a Python interpreter.
+- Ensure you have Python installed on your system.
+- Run the **'[rockpaperscissorsgame.py](rockpaperscissorsgame.py)'** script using a Python interpreter.
 
 ## Future Improvements
 - Implement sound effects for button clicks and game results.
