@@ -46,10 +46,10 @@ Ensure you have Python installed on your system.
 Run the **'[rockpaperscissorsgame.py](rockpaperscissorsgame.py)'** script using a Python interpreter.
 
 ## Future Improvements
-Implement sound effects for button clicks and game results.
-Add images for the rock, paper, and scissors buttons to enhance visual appeal.
-Create a more sophisticated AI for the computer opponent.
-Implement multiplayer mode.
+- Implement sound effects for button clicks and game results.
+- Add images for the rock, paper, and scissors buttons to enhance visual appeal.
+- Create a more sophisticated AI for the computer opponent.
+- Implement multiplayer mode.
 
 ## Credits
 This application was developed by Paras Gupta. Feel free to contact me at guptaparas061@gmail.com for any inquiries or suggestions.
